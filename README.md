@@ -35,7 +35,10 @@
 <br/>
 <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabeen-jung&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabeen-jung&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabeen-jung&show_icons=true&theme=radical)
 
