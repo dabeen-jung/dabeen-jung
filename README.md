@@ -8,8 +8,10 @@
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabeen-jung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabeen-jung&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br/>
   
@@ -26,7 +28,7 @@
 
 <br/>
 
-<a href="https://velog.io/@dabeen-jung"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@dabeen-jung"/></a>&nbsp
+<a href="https://velog.io/@dabeen-jung"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@dabeen-jung"/></a>
 
 
 
