@@ -20,13 +20,6 @@
 <br/><br/>
 
 
-## 💬 Dabeen Jung 💬
-
-<br/>
-
-<a href="https://velog.io/@dabeen-jung"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@dabeen-jung"/></a>
-
-
 
 <br/>
 
