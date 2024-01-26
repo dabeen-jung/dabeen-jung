@@ -1,18 +1,23 @@
 
 <div align="center">
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Dabeen-Jung&animation=&fontColor=ffffff&fontSize=70" />
+</div>
+    
 
 
 <br/>
   
-## 🛠Skills🛠
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
 
 <br/>
-  
+<div  align= "center">  
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>
 
-<br/><br/><br/>
+ </div>
+
+<br/>
+<br/><br/>
 
 
 ## 💬 Dabeen Jung 💬
@@ -26,9 +31,7 @@
 <br/>
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dabeen-jung})](https://solved.ac/{dabeen-jung})
-
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dabeen-jung)](https://solved.ac/dabeen-jung)<br/>
 <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabeen-jung&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
