@@ -2,7 +2,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Dabeen-Jung&animation=&fontColor=ffffff&fontSize=70" />
-</div>
+
     
 
 
