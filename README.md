@@ -31,7 +31,7 @@
 <br/>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dabeen-jung)](https://solved.ac/dabeen-jung)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ltea99)](https://solved.ac/ltea99)<br/>
 <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabeen-jung&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
